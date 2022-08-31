@@ -13,3 +13,5 @@ Script 5-listfilesdigitonly is displaying current directory contents with user i
 Script 6-firstdirectory is creating a directory called my_first_directory in the tmp directory
 
 Script 7-movethatfile is moving the betty file from /tmp directory to the my_first_directory in /tmp directory
+
+Script 8-firstdelete is deleting the file betty in the my_first_directory 
