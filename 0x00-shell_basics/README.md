@@ -7,3 +7,7 @@ Script 2-bring_me_home is changing the working directory to the user's home dire
 Script 3-listfiles is listing out the files in the current directory in long format
 
 Script 4-listmorefiles is listing all the file including hidden files in the current directory in long format
+
+Script 5-listfilesdigitonly is displaying current directory contents with user id and group id of all files in long format
+
+
