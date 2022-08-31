@@ -21,3 +21,5 @@ Script 9-firstdirdeletion is deleting the my_first_directory in the /tmp directo
 Script 10-back changes the directory to the previous one
 
 Script 12-file_type is getting the type of the file iamfile in the /tmp directory
+
+Script 13-symbolic_link iscreating a link named _ls_ that links to /bin/ls
