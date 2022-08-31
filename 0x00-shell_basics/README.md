@@ -15,3 +15,5 @@ Script 6-firstdirectory is creating a directory called my_first_directory in the
 Script 7-movethatfile is moving the betty file from /tmp directory to the my_first_directory in /tmp directory
 
 Script 8-firstdelete is deleting the file betty in the my_first_directory 
+
+Script 9-firstdirdeletion is deleting the my_first_directory in the /tmp directory
