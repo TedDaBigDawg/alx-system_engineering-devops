@@ -28,4 +28,6 @@ Script 14-copy_html is copying html files from the current directory to the pare
 
 Script 100-lets_move is moving all files starting with an uppercase letter to /tmp/u
 
-Script 101-clean_emacs is deleting all file ending with ~ in the current directory 
+Script 101-clean_emacs is deleting all file ending with ~ in the current directory
+
+Script 102-tree creates the said directories in the current directory 
