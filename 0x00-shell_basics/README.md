@@ -19,3 +19,5 @@ Script 8-firstdelete is deleting the file betty in the my_first_directory
 Script 9-firstdirdeletion is deleting the my_first_directory in the /tmp directory
 
 Script 10-back changes the directory to the previous one
+
+Script 12-file_type is getting the type of the file iamfile in the /tmp directory
