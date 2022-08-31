@@ -23,3 +23,5 @@ Script 10-back changes the directory to the previous one
 Script 12-file_type is getting the type of the file iamfile in the /tmp directory
 
 Script 13-symbolic_link iscreating a link named _ls_ that links to /bin/ls
+
+Script 14-copy_html is copying html files from the current directory to the parent directory 
