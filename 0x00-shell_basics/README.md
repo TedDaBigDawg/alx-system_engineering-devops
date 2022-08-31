@@ -24,4 +24,6 @@ Script 12-file_type is getting the type of the file iamfile in the /tmp director
 
 Script 13-symbolic_link iscreating a link named _ls_ that links to /bin/ls
 
-Script 14-copy_html is copying html files from the current directory to the parent directory 
+Script 14-copy_html is copying html files from the current directory to the parent directory
+
+Script 100-lets_move is moving all files starting with an uppercase letter to /tmp/u 
