@@ -13,3 +13,5 @@ Script 6-multiple_permissions is giving execute permission to the owner and grou
 Script 7-everybody is giving execute permission to all
 
 Script 8-James_Bond is giving no permission to the owner and the group owner and all permissions to other users
+
+Script 9-John_Doe is all permissions to the owner read and execute permissions to the group owners and write and execute permissions to other users
