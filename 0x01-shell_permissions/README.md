@@ -11,3 +11,5 @@ Script 5-execute is giving execution permission to the owner of the file hello
 Script 6-multiple_permissions is giving execute permission to the owner and group owner and read only permission to others
 
 Script 7-everybody is giving execute permission to all
+
+Script 8-James_Bond is giving no permission to the owner and the group owner and all permissions to other users
