@@ -7,3 +7,5 @@ Script 3-new_owner is changing the owner of the file hello to betty
 Script 4-empty is creating an empty file called hello
 
 Script 5-execute is giving execution permission to the owner of the file hello
+
+Script 6-multiple_permissions is giving execute permission to the owner and group owner and read only permission to others
