@@ -9,3 +9,5 @@ Script 4-empty is creating an empty file called hello
 Script 5-execute is giving execution permission to the owner of the file hello
 
 Script 6-multiple_permissions is giving execute permission to the owner and group owner and read only permission to others
+
+Script 7-everybody is giving execute permission to all
