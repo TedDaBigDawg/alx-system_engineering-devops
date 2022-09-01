@@ -17,3 +17,9 @@ Script 8-James_Bond is giving no permission to the owner and the group owner and
 Script 9-John_Doe is all permissions to the owner read and execute permissions to the group owners and write and execute permissions to other users
 
 Script 10-mirro_permissions is mirroring the permissions of the file olleh to hello file
+
+Script 11-directories_permissions is adding executr permission to all subdirectories of the current directory
+
+Script 12-directory_permissions is creating a directory called my_dir and giving it permissions of 751
+
+Script 13-change_group is changing the group owners of the file hello to school
