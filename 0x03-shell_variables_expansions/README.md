@@ -11,3 +11,5 @@ Script 4-global_variables is listing all environment variables
 Script 5-local_variables is listing all local variables and environment variables, and functions
 
 Script 6-create_local_variable is creating a local variable called BEST and assigning it the value School
+
+Script 7-create_global_variable is creating a global variable called BEST and assigning it the value School
