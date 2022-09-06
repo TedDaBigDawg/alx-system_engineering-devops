@@ -26,4 +26,10 @@ Script 12-combinations is printing all possible combinations of two letters, exc
 
 Script 13-print_float is printing a number with two decimal places, followed by a new line
 
-Script 
+Script 100-decimal_to_hexadecimal is converting a number from base 10 to base 16
+
+Script 101-rot13 is encoding and decoding text using the rot13 encryption
+
+Script 102-odd is printing every other line from the input, starting with the first line
+
+Script 103-water_and_stir is adding the two numbers stored in the environment variables WATER and STIR and printing the result
